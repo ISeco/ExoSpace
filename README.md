@@ -1,16 +1,16 @@
-# exospace_app
+# ExoSpace
 
-A new Flutter project.
+ExoSpace es mi primera aplicacion de Flutter y en ella podrás ver información de Exoplanetas que han sido confirmados por la comunidad científica durante el año 2022. También podrás ver fotografías de Marte tomadas por nuestro amigo Rover en su misión por el planeta rojo. Por último podrás ver una increible imagen astronómica del día. Todas estas funciones están consumiendo APIs entregadas por la NASA a través de https://api.nasa.gov.
 
-## Getting Started
+Desde el aspecto técnico de la aplicación podemos mencionar que en ella se considera el manejo de Providers, peticiones http, uso de widgets de terceros y animaciones llamativas para el usuario, modelos, rutas y manejo de variables de entorno.
 
-This project is a starting point for a Flutter application.
+## Instalación
 
-A few resources to get you started if this is your first Flutter project:
+Ejecutar el siguiente comando en la raiz del proyecto para instalar las dependencias
+### `flutter packages get`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Levantar la aplicacion
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Seleccione un dispositivo movil y levante la aplicación
+
+### `F5`
