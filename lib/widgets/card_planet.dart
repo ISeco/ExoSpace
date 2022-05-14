@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'package:exospace_app/theme/app_theme.dart';
 import 'package:exospace_app/models/models.dart';
 
 class CardPlanet extends StatelessWidget {
@@ -24,7 +25,7 @@ class CardPlanet extends StatelessWidget {
   }
 
   BoxDecoration _styleCardPlanet() => BoxDecoration(
-    color: const Color.fromARGB(255, 60,60,77),
+    color: AppTheme.colorCard,
     borderRadius: BorderRadius.circular(15),
   );
 }

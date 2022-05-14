@@ -43,11 +43,6 @@ class InputDateState extends State<InputDate> {
               child: TextField(
                 keyboardType: TextInputType.datetime,
                 controller: dateinput,
-                decoration: const InputDecoration( 
-                    border: OutlineInputBorder(),
-                    icon: Icon(Icons.calendar_today),
-                    labelText: "Ingrese una fecha"
-                ),
                 readOnly: true,
                 onTap: () async {
                   DateTime? pickedDate = await showDatePicker(

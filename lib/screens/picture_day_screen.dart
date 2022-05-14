@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import 'package:exospace_app/theme/app_theme.dart';
 import 'package:exospace_app/services/services.dart';
 import 'package:exospace_app/widgets/widgets.dart';
 import 'package:exospace_app/models/models.dart';
@@ -156,7 +157,7 @@ class _BodyPictureWidget extends StatelessWidget {
   );
 
   BoxDecoration _cardShape() => BoxDecoration(
-    color: const Color.fromARGB(255, 60,60,77),
+    color: AppTheme.colorCard,
     borderRadius: BorderRadius.circular(15),
     boxShadow: const [
       BoxShadow(

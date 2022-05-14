@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
+import 'package:exospace_app/theme/app_theme.dart';
 import 'package:exospace_app/screens/screens.dart';
 import 'package:exospace_app/services/services.dart';
 
@@ -34,6 +35,7 @@ class MyApp extends StatelessWidget {
         routes: {
           '/': (_) => const HomeScreen(),
         },
+        theme: AppTheme.lightTheme,
       ),
     );
   }

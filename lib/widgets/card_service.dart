@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:exospace_app/theme/app_theme.dart';
+
 class CardService extends StatelessWidget {
 
   final String imageBackground;
@@ -31,7 +33,7 @@ class CardService extends StatelessWidget {
   }
 
   BoxDecoration _cardShape() => BoxDecoration(
-    color: const Color.fromARGB(255, 60,60,77),
+    color: AppTheme.colorCard,
     borderRadius: BorderRadius.circular(15),
   );
 }
