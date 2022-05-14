@@ -49,7 +49,6 @@ class _BodyWidget extends StatelessWidget {
                   padding: const EdgeInsets.all(5),
                   width: 40,
                   height: 40,
-                  decoration: BoxDecoration( color: Colors.white, borderRadius: BorderRadius.circular(50) ),
                   child: const Center(
                     child: CircularProgressIndicator(),
                   ),  

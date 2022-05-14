@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
+import 'package:intl/intl.dart';
 
+import 'package:exospace_app/theme/app_theme.dart';
 import 'package:exospace_app/services/services.dart';
 
 
@@ -67,7 +68,7 @@ class InputDateState extends State<InputDate> {
             ),
             disabledColor: Colors.grey,
             elevation: 0,
-            color: Colors.indigo,
+            color: AppTheme.primary,
             child: const Icon(Icons.search, color: Colors.white,),
             onPressed: roverService.isLoading 
               ? null 

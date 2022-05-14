@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:card_swiper/card_swiper.dart';
 
+import 'package:exospace_app/theme/app_theme.dart';
 import 'package:exospace_app/services/services.dart';
 import 'package:exospace_app/widgets/widgets.dart';
 
@@ -39,9 +40,9 @@ class _BodyWidget extends StatelessWidget {
       width: double.infinity,
       height: double.infinity,
       child: exoPlanetService.isLoading
-      ? const Center(
+      ? Center(
         child: CircularProgressIndicator(
-          color: Colors.indigo,
+          color: AppTheme.primary,
         ),
       )
       : Swiper(
