@@ -28,4 +28,4 @@ Seleccione un dispositivo movil y levante la aplicación
 </p>
 
 ## Video resumen
-[![Watch the video]](https://res.cloudinary.com/dl7kl3hgv/video/upload/v1652729752/Exospace_app_qlmllu.mp4)
+[Exospace app](https://res.cloudinary.com/dl7kl3hgv/video/upload/v1652729752/Exospace_app_qlmllu.mp4)
