@@ -9,11 +9,12 @@ Desde el aspecto técnico de la aplicación podemos mencionar que en ella se con
 ## Instalación
 
 Ejecutar el siguiente comando en la raiz del proyecto para instalar las dependencias
+
 ### `flutter packages get`
 
 ## Correr la aplicación
 
-Seleccione un dispositivo movil y levante la aplicación
+Seleccione un dispositivo movil y pulse la siguiente tecla
 
 ### `F5`
 
