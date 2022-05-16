@@ -23,7 +23,7 @@ class CustomBottomNavigatorBar extends StatelessWidget {
       circleColor: AppTheme.primary,
       tabs: [
           TabData(iconData: Icons.home, title: "Home"),
-          TabData(iconData: FontAwesomeIcons.cloudSunRain, title: "Mars Weather")
+          TabData(iconData: FontAwesomeIcons.newspaper, title: "News")
       ],
       onTabChangedListener: (value) {
         navigationProvider.currentPage = value;

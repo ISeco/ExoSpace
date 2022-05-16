@@ -27,6 +27,9 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(
           create: (_) => RoverService()
         ),
+        ChangeNotifierProvider(
+          create: (_) => NewsService()
+        ),
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,

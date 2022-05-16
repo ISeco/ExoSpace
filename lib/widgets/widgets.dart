@@ -6,3 +6,4 @@ export 'package:exospace_app/widgets/input_date.dart';
 export 'package:exospace_app/widgets/list_card_services.dart';
 export 'package:exospace_app/widgets/title_of_screen.dart';
 export 'package:exospace_app/widgets/card_image.dart';
+export 'package:exospace_app/widgets/list_news.dart';

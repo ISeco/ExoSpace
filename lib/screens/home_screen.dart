@@ -1,3 +1,4 @@
+import 'package:exospace_app/screens/news_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -32,7 +33,7 @@ class _Pages extends StatelessWidget {
       physics: const NeverScrollableScrollPhysics(),
       children: const [
         ListServicesScreen(),
-        //TODO: Seguna página 
+        NewsScreen()
       ],
     );
   }
