@@ -14,3 +14,18 @@ Ejecutar el siguiente comando en la raiz del proyecto para instalar las dependen
 Seleccione un dispositivo movil y levante la aplicación
 
 ### `F5`
+
+## Imagenes de la aplicacion 
+<p float="left">
+  <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/1_im53cx.jpg" width="180"> 
+  <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/2_comrpq.jpg" width="180"> 
+  <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/3_u4kyzs.jpg" width="180"> 
+</p>
+<p float="left">
+  <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/4_p8kvks.jpg" width="180"> 
+  <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/5_gphgm0.jpg" width="180"> 
+  <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/6_hz256h.jpg" width="180"> 
+</p>
+
+## Video resumen
+[![Watch the video]](https://res.cloudinary.com/dl7kl3hgv/video/upload/v1652729752/Exospace_app_qlmllu.mp4)
