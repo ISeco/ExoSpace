@@ -11,13 +11,13 @@ Desde el aspecto técnico de la aplicación podemos mencionar que en ella se con
 Ejecutar el siguiente comando en la raiz del proyecto para instalar las dependencias
 ### `flutter packages get`
 
-## Levantar la aplicacion
+## Correr la aplicación
 
 Seleccione un dispositivo movil y levante la aplicación
 
 ### `F5`
 
-## Imagenes de la aplicacion 
+## Imágenes de la aplicación 
 <p float="left">
   <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/1_im53cx.jpg" width="180"> 
   <img src="https://res.cloudinary.com/dl7kl3hgv/image/upload/v1652729720/2_comrpq.jpg" width="180"> 
