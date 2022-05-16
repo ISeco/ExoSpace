@@ -2,6 +2,8 @@
 
 ExoSpace es mi primera aplicacion de Flutter y en ella podrás ver información de Exoplanetas que han sido confirmados por la comunidad científica durante el año 2022. También podrás ver fotografías de Marte tomadas por nuestro amigo Rover en su misión por el planeta rojo. Por último podrás ver una increible imagen astronómica del día. Todas estas funciones están consumiendo APIs entregadas por la NASA a través de https://api.nasa.gov.
 
+ExoSpace también te permitirá ver noticias relacionadas a la ciencia en el apartado de News. Esta función consume una API entregada por https://newsapi.org.
+
 Desde el aspecto técnico de la aplicación podemos mencionar que en ella se considera el manejo de Providers, peticiones http, uso de widgets de terceros y animaciones llamativas para el usuario, modelos, rutas y manejo de variables de entorno.
 
 ## Instalación
